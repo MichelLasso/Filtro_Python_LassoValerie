@@ -1,0 +1,25 @@
+[
+    {
+        
+        "nuevos": [
+            {
+                "nombre": "Camilo",
+                "apellido": "Lizcano",
+                "id": "10934",
+                "direccion": "calle 3 #12-8",
+                "celular": "311 959 55 10",
+                "categoria": "clientes leales"
+            },
+            
+            {
+                "nombre": "Paola",
+                "apellido": "Toro",
+                "id": "16468",
+                "direccion": "calle 8 #5-3",
+                "celular": "322 456 52 00",
+                "categoria": "nuevos clientes"
+            }
+        ] 
+        
+    }
+]

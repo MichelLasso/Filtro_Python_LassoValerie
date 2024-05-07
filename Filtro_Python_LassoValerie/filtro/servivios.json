@@ -1,0 +1,12 @@
+[
+    {
+        "usuarios": [
+            {
+                "nombre": "camilo",
+                "servicios": "Internet de Fibra Óptica",
+                "fechaI":"10/03/2010",
+                "fechaF": "03/12/2021"
+            }
+        ]
+    }
+]
